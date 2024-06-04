@@ -1,5 +1,5 @@
 # Hafez-divination
-This repository is a code with using a special API and it's about a divination program with a random poem of Hafez
+This repository is a code in java with using a special API and it's about a divination program with a random poem of Hafez
 # How it works
 If you run the code , a panel will be shown on your screen that contains a poem of Hafez and its interpretation(everytime you run the code new poem will be shown),just rememmber to connect to the internet and if you have any problem with showing you the panel,use a VPN for that
 # How the program looks
